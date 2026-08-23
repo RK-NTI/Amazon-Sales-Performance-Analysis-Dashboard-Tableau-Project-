@@ -1,6 +1,6 @@
 # Amazon Sales Performance Analysis Dashboard (Tableau-Project)
 
-🔹 Key KPIs: 
+#🔹 Key KPIs: 
 
 • Total Sales: 642.13M
 
